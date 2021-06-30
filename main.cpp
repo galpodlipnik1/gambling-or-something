@@ -90,7 +90,7 @@ void metKocke(int dnar, int zacetnDnar){
         ponovitev(dnar, zacetnDnar);
     }
     else
-        cout << "no more money broke boyy" << endl;
+        cout << "u have no more money" << endl;
 
 
 }
