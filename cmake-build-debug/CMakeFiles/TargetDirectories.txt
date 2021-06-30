@@ -1,0 +1,3 @@
+D:/programiranje/gambling-or-somethinb/cmake-build-debug/CMakeFiles/gambling_or_somethinb.dir
+D:/programiranje/gambling-or-somethinb/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programiranje/gambling-or-somethinb/cmake-build-debug/CMakeFiles/rebuild_cache.dir

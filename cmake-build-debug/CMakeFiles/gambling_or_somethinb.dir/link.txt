@@ -1,0 +1,3 @@
+C:\Users\galpo\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7442.42\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\gambling_or_somethinb.dir/objects.a
+"D:\random shit\compiler\mingw64\bin\ar.exe" cr CMakeFiles\gambling_or_somethinb.dir/objects.a @CMakeFiles\gambling_or_somethinb.dir\objects1.rsp
+"D:\random shit\compiler\mingw64\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\gambling_or_somethinb.dir/objects.a -Wl,--no-whole-archive -o gambling_or_somethinb.exe -Wl,--out-implib,libgambling_or_somethinb.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gambling_or_somethinb.dir\linklibs.rsp
